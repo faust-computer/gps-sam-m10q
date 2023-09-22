@@ -1,0 +1,6 @@
+# Copyright (c) 2023 Faust Network, Inc
+
+config LIB_GPS_SAM_M10Q
+	bool "Enable GPS SAM-M10Q driver"
+	help
+	  This option enables the GPS ublox SAM-M10Q driver library as a Zephyr module.

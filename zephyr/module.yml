@@ -1,0 +1,4 @@
+name: gpssamm10q
+build:
+  cmake: .
+  kconfig: zephyr/Kconfig.libgpssamm10q
